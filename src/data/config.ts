@@ -191,9 +191,9 @@ export const achievements = [
   },
   {
     id: "leetcode",
-    title: "LeetCode Practice",
+    title: "Actively Practicing LeetCode",
     role: "Problem Solver",
-    description: "12 problems solved with a focus on building consistency in array problem-solving and algorithmic thinking.",
+    description: "Building problem-solving skills through regular coding practice, focusing on data structures, algorithms, and logical thinking.",
     icon: "terminal",
     highlight: false,
   },
